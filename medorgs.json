@@ -770,7 +770,7 @@
         "id": "acc",
         "name": "American College of Cardiology",
         "acronym": "ACC",
-        "specialties": ["Cardiology", "General Medicine"],
+        "specialties": ["Cardiology"],
         "geoScope": "National",
         "costStudentNum": 0,
         "costResidentNum": 0,
